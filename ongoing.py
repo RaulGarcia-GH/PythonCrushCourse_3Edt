@@ -1,10 +1,2 @@
-cars = ['audi', 'bmw', 'subaru', 'toyota']
-
-for car in cars:
-	if car != 'bmw':
-		print(car.title())
-	else:
-		print(car.upper())
-
-coche = 'Audi'
-coche == 'audi'
+age = 19
+age < 21
